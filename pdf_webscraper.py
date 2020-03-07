@@ -4,6 +4,7 @@ import os
 import re
 from bs4 import BeautifulSoup
 
+#def 
 
 headers = {'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:10.0) Gecko/20100101 Firefox/10.0'}
 req = requests.get('https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports', headers)
